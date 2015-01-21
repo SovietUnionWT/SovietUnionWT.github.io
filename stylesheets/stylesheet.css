@@ -51,7 +51,7 @@ Theme Styles
 body {
   box-sizing: border-box;
   color: url("http://cdn.history.com/sites/2/2013/12/joseph-stalin-H.jpeg");
-  background: url("http://cdn.history.com/sites/2/2013/12/joseph-stalin-H.jpeg");
+  background: url("http://cdn.history.com/sites/2/2013/12/joseph-stalin-H.jpeg" no-repeat top center);
   font-size: 16px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
